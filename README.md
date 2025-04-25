@@ -1,10 +1,10 @@
-### Fashion Forward Forecasting: ML Product Recommendation Prediction
+# Fashion Forward Forecasting: ML Product Recommendation Prediction
 The project builds a machine learning pipeline to predict whether customers would recommend a product based on their reviews, age, and product information. This was built for StyleSense, an online women's clothing retailer, to help handle the backlog of product reviews with missing recommendation data.
 
-## Getting Started
+# Getting Started
 Instructions for how to get a copy of the project running on your local machine.
 
-## Dependencies
+£ Dependencies
 Python 3.8+
 pandas
 numpy
@@ -14,7 +14,7 @@ xgboost
 matplotlib
 seaborn
 
-## Installation
+# Installation
 1. Clone the repository:
     git clone https://github.com/NarrativeWeaver/dsnd-pipelines-project.git
    cd dsnd-pipelines-project
@@ -29,10 +29,10 @@ seaborn
    jupyter notebook starter.ipy
 
 
-## Testing
+# Testing
 The model pipeline can be tested by running all cells in the notebook, which includes evaluation metrics on the test dataset.
 
-## Project Instructions
+# Project Instructions
 
 # Data Exploration:
 - Analyzed class distribution revealing an imbalance (18% not recommended, 82% recommended)
@@ -64,7 +64,7 @@ The model pipeline can be tested by running all cells in the notebook, which inc
 - Analyzed feature importance to understand driving factors in predictions
 - Final model achieved approximately 86% accuracy on the test set
 
-## Built With
+# Built With
 pandas - Data manipulation and analysis
 scikit-learn - Pipeline construction and model training
 spaCy - Advanced natural language processing
@@ -72,5 +72,5 @@ XGBoost - Gradient boosting implementation
 matplotlib/seaborn - Data visualization
 NumPy - Numerical computations
 
-## License
+# License
 This project is licensed under the MIT License 
