@@ -1,4 +1,4 @@
-# Fashion Forward Forecasting: ML Product Recommendation Prediction
+# Fashion Forward Forecasting: ML Model Pipeline
 The project builds a machine learning pipeline to predict whether customers would recommend a product based on their reviews, age, and product information. This was built for StyleSense, an online women's clothing retailer, to help handle the backlog of product reviews with missing recommendation data.
 
 ## Getting Started
