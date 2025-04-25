@@ -42,9 +42,9 @@ The model pipeline can be tested by running all cells in the notebook, which inc
 
 ### Pipeline Construction:
 - Built a comprehensive pipeline with specialized components for:
-   Numeric features (Age, Positive Feedback Count)
-   Categorical features (Clothing ID, Division, Department, Class Name)
-   Text features (Review Title and Text)
+   - Numeric features (Age, Positive Feedback Count)
+   - Categorical features (Clothing ID, Division, Department, Class Name)
+   - Text features (Review Title and Text)
 - Implemented custom text processing using spaCy with lemmatization
 - Created TF-IDF vectorization with n-gram features
 
