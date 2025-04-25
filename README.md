@@ -4,15 +4,15 @@ The project builds a machine learning pipeline to predict whether customers woul
 ## Getting Started
 Instructions for how to get a copy of the project running on your local machine.
 
-£ Dependencies
-Python 3.8+
-pandas
-numpy
-scikit-learn
-spacy
-xgboost
-matplotlib
-seaborn
+## Dependencies
+- Python 3.8+
+- pandas
+- numpy
+- scikit-learn
+- spacy
+- xgboost
+- matplotlib
+- seaborn
 
 ## Installation
 1. Clone the repository:
