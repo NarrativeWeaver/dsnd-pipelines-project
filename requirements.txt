@@ -1,4 +1,8 @@
-scikit-learn
-pandas
-spacy
-notebook
+pandas>=1.2.0
+numpy>=1.19.5
+scikit-learn>=1.0.0
+spacy>=3.0.0
+xgboost>=1.5.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+jupyter>=1.0.0
